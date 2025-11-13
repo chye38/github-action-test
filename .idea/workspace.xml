@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7d5cb76-d579-4e68-8637-22fdda1074bd" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/workflow.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/workflow.yml" afterDir="false" />
-    </list>
+    <list default="true" id="f7d5cb76-d579-4e68-8637-22fdda1074bd" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +29,7 @@
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/chye38/messenger.git",
+    "url": "https://github.com/chye38/github-action-test.git",
     "accountId": "d4effd30-722c-4eab-aa28-121847d60d63"
   }
 }]]></component>
@@ -97,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1763022395926</updated>
-      <workItem from="1763022397162" duration="2371000" />
+      <workItem from="1763022397162" duration="2691000" />
     </task>
     <servers />
   </component>
