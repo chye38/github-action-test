@@ -1,0 +1,11 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# OS 관련
+.DS_Store
+Thumbs.db
+
+# Node.js (예시)
+node_modules/
+dist/
